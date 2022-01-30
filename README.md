@@ -2,7 +2,7 @@
 IMLP352 - Python機器學習
 ## 🌵Homework
 ### HW 1 :請完成 Unit01_Crash Course on Python.ipynb程式
->* [HW 1](HW1/Unit01_Crash Course on Python .ipynb)
+>* [HW 1](https://github.com/brian891203/IMLP352/blob/main/HW1/Unit01_Crash%20Course%20on%20Python%20.ipynb)
 ### HW 2 : 請完成Unit02內Numpy, Pandas, Matplolib, Seaborn實作完成
 >* [HW 2](HW2/hw2.md)
 ### HW 3 : 請完成Unit03資料夾內實戰部分
